@@ -1,3 +1,2 @@
 # hello-world
-First repository
-Starting to learn to code Python
+Learning Python, interested in Machine Learning and Data Science
